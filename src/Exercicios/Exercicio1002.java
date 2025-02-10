@@ -1,8 +1,9 @@
-import java.io.IOException;
+package Exercicios;
+
  
 import java.util.Scanner;
 
-public class App {
+public class Exercicio1002{
     
     	public static void main(String[] args) {
     

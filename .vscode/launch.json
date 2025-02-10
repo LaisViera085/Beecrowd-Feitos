@@ -1,0 +1,29 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Exercicio1040",
+            "request": "launch",
+            "mainClass": "Exercicios.Exercicio1040",
+            "projectName": "Beecrowd-Feitos_b0bdd74d"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio1043",
+            "request": "launch",
+            "mainClass": "Exercicios.Exercicio1043",
+            "projectName": "Beecrowd-Feitos_b0bdd74d"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio1048",
+            "request": "launch",
+            "mainClass": "Exercicios.Exercicio1048",
+            "projectName": "Beecrowd-Feitos_b0bdd74d"
+        }
+    ]
+}
